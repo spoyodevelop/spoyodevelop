@@ -16,7 +16,7 @@ React와 TypeScript를 주로 사용하는 프론트엔드 개발자입니다. �
 
 [서비스](https://estime.today)
 
-### ☂️ [아 맞다 우산](https://v2.umbrella.site)
+### ☂️ [아 맞다 우산](https://v2.umbrella.info)
 
 <sub>2024.03 – 현재 · 개인 프로젝트</sub>
 
@@ -24,7 +24,7 @@ React와 TypeScript를 주로 사용하는 프론트엔드 개발자입니다. �
 
 2년 반 동안 매시간 데이터를 수집하며 운영했습니다. 기존 17개 대표 지역에서 전국 252개 시군구로 범위를 확대해, 이제는 자신이 사는 동네의 기록을 확인할 수 있습니다.
 
-[서비스](https://v2.umbrella.site)
+[서비스](https://v2.umbrella.info)
 
 ---
 
